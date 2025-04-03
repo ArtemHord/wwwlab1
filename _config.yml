@@ -1,12 +1,11 @@
-# Tytuł i opis strony
+
 title: "TikTok Top"
 description: "Lista influencerów"
 
-# Podstawowe adresy URL
-url: ""         #
+
+url: "https://artemhord.github.io"
 baseurl: "/wwwlab1"
 
-# Konfiguracja kolekcji
 collections:
   influencers:
     output: true
