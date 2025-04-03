@@ -6,7 +6,7 @@ image: /assets/images/Charli_Damelio.png
 
 # 2.Charli D'amelio 🇺🇸
 
-![2.Charli D'amelio 🇺🇸](/assets/images/Charli_Damelio.png)
+![2.Charli D'amelio 🇺🇸]({{ site.baseurl }}/assets/images/Charli_Damelio.png)
 
 **Profil TikTok:** [https://www.tiktok.com/@charlidamelio](https://www.tiktok.com/@charlidamelio)
 

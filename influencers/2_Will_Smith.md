@@ -6,7 +6,7 @@ image: /assets/images/Will_Smith.png
 
 # 9.Will Smith 🇺🇸
 
-![9.Will Smith 🇺🇸](/assets/images/Will_Smith.png)
+![9.Will Smith 🇺🇸]({{ site.baseurl }}/assets/images/Will_Smith.png)
 
 **Profil TikTok:** [https://www.tiktok.com/@willsmith](https://www.tiktok.com/@willsmith)
 

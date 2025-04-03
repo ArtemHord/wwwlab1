@@ -6,7 +6,7 @@ image: /assets/images/Domelipa.png
 
 # 8.Domelipa 🇲🇽
 
-![8.Domelipa 🇲🇽](/assets/images/Domelipa.png)
+![8.Domelipa 🇲🇽]({{ site.baseurl }}/assets/images/Domelipa.png)
 
 **Profil TikTok:** [https://www.tiktok.com/@domelipa](https://www.tiktok.com/@domelipa)
 

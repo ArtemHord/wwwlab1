@@ -6,7 +6,7 @@ image: /assets/images/Mr_Beast.png
 
 # 3.Mr Beast 🇺🇸
 
-![3.Mr Beast 🇺🇸](/assets/images/Mr_Beast.png)
+![3.Mr Beast 🇺🇸]({{ site.baseurl }}/assets/images/Mr_Beast.png)
 
 **Profil TikTok:** [https://www.tiktok.com/@mrbeast](https://www.tiktok.com/@mrbeast)
 

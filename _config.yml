@@ -4,7 +4,7 @@ description: "Lista influencerów"
 
 # Podstawowe adresy URL
 url: ""         #
-baseurl: ""
+baseurl: "/wwwlab1"
 
 # Konfiguracja kolekcji
 collections:

@@ -6,7 +6,7 @@ image: /assets/images/Khaby_Lame.png
 
 # 1.Khaby Lame 🇮🇹
 
-![1.Khaby Lame 🇮🇹](/assets/images/Khaby_Lame.png)
+![1.Khaby Lame 🇮🇹]({{ site.baseurl }}/assets/images/Khaby_Lame.png)
 
 **Profil TikTok:** [https://www.tiktok.com/@khaby.lame](https://www.tiktok.com/@khaby.lame)
 

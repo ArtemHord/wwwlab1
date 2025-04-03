@@ -6,7 +6,7 @@ image: /assets/images/AddisonRae.png
 
 # 5.Addison Rae 🇺🇸
 
-![5.Addison Rae 🇺🇸](/assets/images/AddisonRae.png)
+![5.Addison Rae 🇺🇸]({{ site.baseurl }}/assets/images/AddisonRae.png)
 
 **Profil TikTok:** [https://www.tiktok.com/@addisonre](https://www.tiktok.com/@addisonre)
 

@@ -6,7 +6,7 @@ image: /assets/images/Bella_Poarch.png
 
 # 4.Bella Poarch 🇺🇸
 
-![4.Bella Poarch 🇺🇸](/assets/images/Bella_Poarch.png)
+![4.Bella Poarch 🇺🇸]({{ site.baseurl }}/assets/images/Bella_Poarch.png)
 
 **Profil TikTok:** [https://www.tiktok.com/@bellapoarch](https://www.tiktok.com/@bellapoarch)
 

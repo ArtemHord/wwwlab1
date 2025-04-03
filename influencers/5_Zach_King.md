@@ -6,7 +6,7 @@ image: /assets/images/Zach_King.png
 
 # 6.Zach King 🇺🇸
 
-![6.Zach King 🇺🇸](/assets/images/Zach_King.png)
+![6.Zach King 🇺🇸]({{ site.baseurl }}/assets/images/Zach_King.png)
 
 **Profil TikTok:** [https://www.tiktok.com/@zachking](https://www.tiktok.com/@zachking)
 

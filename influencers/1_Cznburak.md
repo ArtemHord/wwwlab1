@@ -6,7 +6,7 @@ image: /assets/images/Cznburak.png
 
 # 10.Cznburak 🇹🇷
 
-![10.Cznburak 🇹🇷](/assets/images/Cznburak.png)
+![10.Cznburak 🇹🇷]({{ site.baseurl }}/assets/images/Cznburak.png)
 
 **Profil TikTok:** [https://www.tiktok.com/@cznburak](https://www.tiktok.com/@cznburak)
 

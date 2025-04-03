@@ -6,7 +6,7 @@ image: /assets/images/Kimberly_Loaiza.png
 
 # 7.Kimberly Loaiza 🇲🇽
 
-![7.Kimberly Loaiza 🇲🇽](/assets/images/Kimberly_Loaiza.png)
+![7.Kimberly Loaiza 🇲🇽]({{ site.baseurl }}/assets/images/Kimberly_Loaiza.png)
 
 **Profil TikTok:** [https://www.tiktok.com/@kimberly.loaiza](https://www.tiktok.com/@kimberly.loaiza)
 
