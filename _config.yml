@@ -1,0 +1,24 @@
+# Tytuł i opis strony
+title: "TikTok Top"
+description: "Lista influencerów"
+
+# Podstawowe adresy URL
+url: ""         #
+baseurl: ""
+
+# Konfiguracja kolekcji
+collections:
+  influencers:
+    output: true
+    permalink: /influencers/:title/
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+markdown: kramdown
+highlighter: rouge
+
+assets:
+  sources: ["assets"]
+
