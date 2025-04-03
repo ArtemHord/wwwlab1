@@ -1,7 +1,7 @@
 ---
-layout: post
-title: 4.Bella Poarch 🇺🇸
-image: /assets/images/Bella_Poarch.png
+layout: page
+title: "7_Bella_Poarch"
+permalink: /influencers/7_Bella_Poarch/
 ---
 
 # 4.Bella Poarch 🇺🇸

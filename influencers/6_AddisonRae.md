@@ -1,10 +1,10 @@
 ---
-layout: post
-title: 5.Addison Rae 🇺🇸
-image: /assets/images/AddisonRae.png
+layout: page
+title: "6_AddisonRae"
+permalink: /influencers/6_AddisonRae/
 ---
 
-# 5.Addison Rae 🇺🇸
+# 5.Addison Rae 🇺🇸
 
 ![5.Addison Rae 🇺🇸]({{ site.baseurl }}/assets/images/AddisonRae.png)
 

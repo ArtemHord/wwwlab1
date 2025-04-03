@@ -1,7 +1,7 @@
 ---
-layout: post
-title: 8.Domelipa 🇲🇽
-image: /assets/images/Domelipa.png
+layout: page
+title: "3_Domelipa"
+permalink: /influencers/3_Domelipa/
 ---
 
 # 8.Domelipa 🇲🇽

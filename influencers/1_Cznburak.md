@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 10.Cznburak 🇹🇷
-image: /assets/images/Cznburak.png
+title: "1_Cznburak"
+permalink: /influencers/1_Cznburak/
 ---
 
 # 10.Cznburak 🇹🇷

@@ -1,7 +1,7 @@
 ---
-layout: post
-title: 9.Will Smith 🇺🇸
-image: /assets/images/Will_Smith.png
+layout: page
+title: "2_Will_Smith"
+permalink: /influencers/2_Will_Smith/
 ---
 
 # 9.Will Smith 🇺🇸

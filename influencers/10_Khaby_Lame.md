@@ -1,7 +1,7 @@
 ---
-layout: post
-title: 1.Khaby Lame 🇮🇹
-image: /assets/images/Khaby_Lame.png
+layout: page
+title: "10_Khaby_Lame"
+permalink: /influencers/10_Khaby_Lame/
 ---
 
 # 1.Khaby Lame 🇮🇹

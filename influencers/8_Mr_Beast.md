@@ -1,7 +1,7 @@
 ---
-layout: post
-title: 3.Mr Beast 🇺🇸
-image: /assets/images/Mr_Beast.png
+layout: page
+title: "8_Mr_Beast"
+permalink: /influencers/8_Mr_Beast/
 ---
 
 # 3.Mr Beast 🇺🇸

@@ -1,7 +1,7 @@
 ---
-layout: post
-title: 7.Kimberly Loaiza 🇲🇽
-image: /assets/images/Kimberly_Loaiza.png
+layout: page
+title: "4_Kimberly_Loaiza"
+permalink: /influencers/4_Kimberly_Loaiza/
 ---
 
 # 7.Kimberly Loaiza 🇲🇽

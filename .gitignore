@@ -1,5 +1,43 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
+# OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor folders
+.idea/
+.vscode/
+
+# Jekyll output
+_site/
+.jekyll-cache/
+.jekyll-metadata/
+.sass-cache/
+
+# Ruby & Bundler
+vendor/
+.bundle/
+.gem
+Gemfile.lock
+
+# Node.js (if using frontend tooling)
+node_modules/
+
+# Python cache
+*.pyc
+__pycache__/
+
+# Archives and temp
+*.zip
+*.7z
+*.rar
+*.tar.gz
+*.tar
+*.tgz
+*.tmp
+*.log
+*.bak
+
+# Environment
+.env
+.env.*

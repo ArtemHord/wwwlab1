@@ -1,7 +1,7 @@
 ---
-layout: post
-title: 2.Charli D'amelio 🇺🇸
-image: /assets/images/Charli_Damelio.png
+layout: page
+title: "9_Charli_Damelio"
+permalink: /influencers/9_Charli_Damelio/
 ---
 
 # 2.Charli D'amelio 🇺🇸

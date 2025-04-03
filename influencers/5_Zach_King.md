@@ -1,7 +1,7 @@
 ---
-layout: post
-title: 6.Zach King 🇺🇸
-image: /assets/images/Zach_King.png
+layout: page
+title: "5_Zach_King"
+permalink: /influencers/5_Zach_King/
 ---
 
 # 6.Zach King 🇺🇸
