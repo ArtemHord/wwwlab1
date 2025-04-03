@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "6_AddisonRae"
 permalink: /influencers/6_AddisonRae/
 ---

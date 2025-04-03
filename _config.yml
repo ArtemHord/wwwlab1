@@ -11,7 +11,7 @@ collections:
     output: true
     permalink: /influencers/:title/
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 

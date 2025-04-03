@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "1_Cznburak"
 permalink: /influencers/1_Cznburak/
 ---

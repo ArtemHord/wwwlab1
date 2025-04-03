@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "4_Kimberly_Loaiza"
 permalink: /influencers/4_Kimberly_Loaiza/
 ---

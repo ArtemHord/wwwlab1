@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "9_Charli_Damelio"
 permalink: /influencers/9_Charli_Damelio/
 ---

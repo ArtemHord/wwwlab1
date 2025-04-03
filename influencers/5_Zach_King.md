@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "5_Zach_King"
 permalink: /influencers/5_Zach_King/
 ---

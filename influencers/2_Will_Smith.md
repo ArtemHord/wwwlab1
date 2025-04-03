@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "2_Will_Smith"
 permalink: /influencers/2_Will_Smith/
 ---

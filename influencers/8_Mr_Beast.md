@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "8_Mr_Beast"
 permalink: /influencers/8_Mr_Beast/
 ---

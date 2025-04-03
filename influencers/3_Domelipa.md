@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "3_Domelipa"
 permalink: /influencers/3_Domelipa/
 ---

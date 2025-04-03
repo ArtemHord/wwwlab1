@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "7_Bella_Poarch"
 permalink: /influencers/7_Bella_Poarch/
 ---
