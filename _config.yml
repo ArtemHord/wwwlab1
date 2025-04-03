@@ -12,7 +12,7 @@ collections:
     output: true
     permalink: /influencers/:title/
 
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
